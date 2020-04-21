@@ -255,10 +255,3 @@ out_grid_file = input_filename + '_blur_grid.txt'
 
 write_image(out_image_file,blur(input_grid))
 write_grid(out_grid_file,blur(input_grid))
-
-
-###
-### 协作者
-###
-
-# ... 在这里写下你的答案，作为评论（在以“#”开头的行上）。
